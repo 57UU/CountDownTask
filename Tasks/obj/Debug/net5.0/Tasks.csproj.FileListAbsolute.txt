@@ -1,0 +1,16 @@
+D:\W\Projects\Pick\PickV4\Tasks\obj\Debug\net5.0\Tasks.csproj.AssemblyReference.cache
+D:\W\Projects\Pick\PickV4\Tasks\obj\Debug\net5.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\W\Projects\Pick\PickV4\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfoInputs.cache
+D:\W\Projects\Pick\PickV4\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfo.cs
+D:\W\Projects\Pick\PickV4\Tasks\obj\Debug\net5.0\Tasks.csproj.CoreCompileInputs.cache
+D:\W\Projects\Pick\PickV4\Tasks\bin\Debug\net5.0\Tasks.exe
+D:\W\Projects\Pick\PickV4\Tasks\bin\Debug\net5.0\Tasks.deps.json
+D:\W\Projects\Pick\PickV4\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.json
+D:\W\Projects\Pick\PickV4\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.dev.json
+D:\W\Projects\Pick\PickV4\Tasks\bin\Debug\net5.0\Tasks.dll
+D:\W\Projects\Pick\PickV4\Tasks\bin\Debug\net5.0\ref\Tasks.dll
+D:\W\Projects\Pick\PickV4\Tasks\bin\Debug\net5.0\Tasks.pdb
+D:\W\Projects\Pick\PickV4\Tasks\obj\Debug\net5.0\Tasks.dll
+D:\W\Projects\Pick\PickV4\Tasks\obj\Debug\net5.0\ref\Tasks.dll
+D:\W\Projects\Pick\PickV4\Tasks\obj\Debug\net5.0\Tasks.pdb
+D:\W\Projects\Pick\PickV4\Tasks\obj\Debug\net5.0\Tasks.genruntimeconfig.cache

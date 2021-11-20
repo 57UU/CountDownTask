@@ -3,11 +3,9 @@ To execulate a task auto after a set time
 
 # Task folder 
 C# edition ,which uses async method in order to strengthen the stability.
----------------------
   ```c#
   var countDownTaskManger=new CountDownTaskManger<T>(double minutes)
   ```
----------------
 >Method:
 --------------------------
   `Add()`
@@ -18,7 +16,6 @@ C# edition ,which uses async method in order to strengthen the stability.
   ```java
   var countDownTaskManger=new CountDownTaskManger<T>(double minutes)
   ```
-  ---------------------
   >Method:
   `Add()`
   `Clear()`

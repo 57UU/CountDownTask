@@ -20,5 +20,5 @@ C# edition ,which uses async method in order to strengthen the stability.
   ```
   `Add()`
   `Clear()`
-  `~Cast(T i)~`
+  `~~Cast(T i)~~`
 this is java edition,implemented by multi-thread(sxactly only one extra thread,beacuse async method in java is too sick to write).So that may cause Exception by multi-thread assets assign

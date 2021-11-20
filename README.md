@@ -15,4 +15,4 @@ C# edition ,which uses async method in order to strengthen the stability.
   `Cast(T i)`
 
 # CountDownTask.java
-this is java edition,implemented by multi-thread.So that may cause Exception by multi-thread assets assign
+this is java edition,implemented by multi-thread(sxactly only one extra thread,beacuse async method in java is too sick to write).So that may cause Exception by multi-thread assets assign

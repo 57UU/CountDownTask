@@ -7,8 +7,8 @@ C# edition ,which uses async method in order to strengthen the stability.
   var countDownTaskManger=new CountDownTaskManger<T>(double minutes)
   ```
 >Method:
-  `Add()`
-  `Clear()`
+  `AddTask()`
+  `ClearAll()`
   `Cast(T i)`
 
 # CountDownTask.java
